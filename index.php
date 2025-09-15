@@ -1,0 +1,172 @@
+<html>
+    <head>
+        <title>PAXWEB</title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+    <body>
+      <header>
+        <div id="BarraAmarela"></div>
+        <div id="BarraVermelha">
+          <img id="Logo" src="img/logo.png">
+          <button id="Menu"></button>
+          <!-- <div >
+            <a href="index.php">Home</a>
+            <a href="index.php">Missão</a>
+            <a href="index.php">Eventos</a>
+            <a href="index.php">Valores</a>
+            <a href="index.php">Diferenciais</a>
+            <a href="index.php">Relatos</a>
+            <a href="index.php">Localização</a>
+            <a href="index.php">Contatos</a>
+            <a href="index.php">Tutorial de matrícula</a>
+            <a href="index.php">Tour Virtual</a>
+            <a href="index.php">Login</a>
+          </div> -->
+        </div>
+        <div id="Contatos">
+          <button id="telefone">
+            <img id="telefone-img" src="img/whatsapp.png">
+            <p><u>Tel.: (99)99999-9999</u></p>
+          </button>
+          <button id="instagram">
+            <img id="instagram-img" src="img/instagram.png">
+          </button>
+          <button id="facebook">
+            <img id="facebook-img" src="img/facebook.png">
+          </button>
+        </div>
+      </header>
+      <div id="boasvindas">
+        <div id="boasvindas-img" back="">
+          <h1>Bem vindo ao<br> PAXWEB</h1>
+        </div>
+        <div id="BarraSeparacao"></div>
+        <div id="compromisso">
+          <img id="compromisso-img" src="img/compromisso.png">
+          <div id="degrade"></div>
+          <div id="comproisso-titulo">
+            <h2 id="titulo1">São 63 anos de compromisso com a educação</h1>
+          </div>
+          <div id="compromisso-texto">
+            <p>O Colégio Pax possibilita a vivência de valores éticos, políticos, religiosos, cívicos, culturais e artísticos. Essas experiências contribuem para formar pessoas que busquem a autorrealização e participação construtiva na sociedade.</p>
+          </div>
+        </div>
+      </div>
+      <a>
+        <button id="tour">
+          <img id="tour-img" src="img/tour.png">
+          Tour Virtual
+        </button>
+        <div id="BarraSeparacao"></div>
+      </a>
+      <div id="Ciclos">
+        <div id="ciclo1">
+          <h1>Ciclo 1</h1>
+          <p>texto esplicativo 1</p>
+        </div>
+        <div id="ciclo2">
+          <h1>Ciclo 2</h1>
+          <p>texto esplicativo 2</p>
+        </div>
+        <div id="ciclo3">
+          <h1>Ciclo 3</h1>
+          <p>texto esplicativo 3</p>
+        </div>
+      </div>
+      <div id="missao">
+        <div id="titulo"></div>
+        <p>texto da missao</p>
+        <a>
+          <button id="missao-botao">
+            <img id="missao-botao-img" src="img/missao.png">
+            <p>saiba mais</p>
+          </button>
+        </a>
+        <img id="missao-img" src="img/missao.png">
+      </div>
+      <div id="BarraSeparacao"></div>
+      <div id="eventos">
+      </div>
+      <div id="valores">
+        <h1>Valores</h1>
+        <img id="valores-img" src="img/valores.png">
+        <div id="valores-texto">
+        </div>
+      </div>
+      <div id="BarraSeparacao"></div>
+      <div id="diferenciais">
+        <div id="diferenciais/titulo">
+          <h1>Diferenciais</h1>
+        </div>
+        <div id="diferencial1">
+          <img id="diferencial1/img" src="img/diferencial1.png">
+          <h2>diferencial 1</h2>
+          <p>texto diferencial 1</p>
+        </div>
+        <div id="diferencial2">
+          <img id="diferencial2/img" src="img/diferencial2.png">
+          <h2>diferencial 2</h2>
+          <p>texto diferencial 2</p>
+        </div>
+        <div id="diferencial3">
+          <img id="diferencial3/img" src="img/diferencial3.png">
+          <h2>diferencial 3</h2>
+          <p>texto diferencial 3</p>
+        </div>
+        <div id="diferencial4">
+          <img id="diferencial4/img" src="img/diferencial4.png">
+          <h2>diferencial 4</h2>
+          <p>texto diferencial 4</p>
+        </div>
+      </div>
+      <div id="FormularioMatricula">
+        <img id="FormularioMatricula/img" src="img/formulario.png">
+        <h1>Tutorial de matrícula</h1>
+      </div>
+      <div id="relatos">
+        <h1>Relatos</h1>
+        <div id="relato1">
+          <img id="relato1/img" src="img/relato1.png">
+          <h2>nome</h2>
+          <h2>profissão</h2>
+          <p>texto relato 1</p>
+        </div>
+        <div id="relato2">
+          <img id="relato2/img" src="img/relato2.png">
+          <h2>nome</h2>
+          <h2>profissão</h2>
+          <p>texto relato 2</p>
+        </div>
+        <div id="relato3">
+          <img id="relato3/img" src="img/relato3.png">
+          <h2>nome</h2>
+          <h2>profissão</h2>
+          <p>texto relato 3</p>
+        </div>
+      </div>
+      <div id="MenuInferior">
+        <div id="Localizacao">
+          <h1>Localização</h1>
+          <img id="Localizacao/img" src="img/Localizacao.png">
+        </div>
+        <div id="BarraSeparacao"></div>
+        <div id="Contatos2">
+          <h1>Contatos</h1>
+          <div id="contato1">
+            <button id="telefone2">
+              <img id="telefone/img" src="img/telefone.png">
+              (11) 3333-3333
+            </button>
+            <button id="instagram2">
+              <img id="instagram/img" src="img/instagram.png">
+              <p>@PAX</p>
+            </button>
+            <button id="facebook">
+              <img id="facebook/img" src="img/facebook.png">
+              <p>PAX</p>
+            </button>
+          </div>
+        </div>
+        <div id="BarraSeparacao"></div>
+    </body>
+</html>
