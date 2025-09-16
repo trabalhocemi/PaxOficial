@@ -114,6 +114,8 @@ body{
     -webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: #ffffff;
 }
+#compromisso-img{
+    height:50%
 #{
     color: #ffffff;
     background: rgba(0, 0, 0, 0);
